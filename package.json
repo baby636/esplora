@@ -32,7 +32,7 @@
     "pug": "^3.0.0",
     "pug-cli": "^1.0.0-alpha6",
     "snabbdom-to-html": "^6.0.0",
-    "typeface-inconsolata": "0.0.72",
+    "typeface-inconsolata": "1.1.13",
     "uglify-es": "^3.3.9"
   }
 }
