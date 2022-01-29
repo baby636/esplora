@@ -31,7 +31,7 @@
     "pofile": "^1.1.0",
     "pug": "^3.0.0",
     "pug-cli": "^1.0.0-alpha6",
-    "snabbdom-to-html": "^6.0.0",
+    "snabbdom-to-html": "^7.0.0",
     "typeface-inconsolata": "0.0.72",
     "uglify-es": "^3.3.9"
   }
