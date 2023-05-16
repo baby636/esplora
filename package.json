@@ -27,7 +27,7 @@
     "bundle-collapser": "^1.4.0",
     "cssjanus": "^2.0.1",
     "move-decimal-point": "0.0.4",
-    "patch-package": "^6.2.2",
+    "patch-package": "^7.0.0",
     "pofile": "^1.1.0",
     "pug": "^3.0.0",
     "pug-cli": "^1.0.0-alpha6",
